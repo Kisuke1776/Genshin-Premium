@@ -5,7 +5,6 @@ the game even more fun! Even tho you're scared to get banned, don't worry, this 
 Just don't use the features marked with {risky} next to it.
 If you are banned, you understand that it's NOT my fault, but entirely yours.
 Also, don't you ever go on web with your cheat open, since your informations will not be protected as the cheat needs NO windows defender.
-By installing this Cheat, you also understand that if you get your infos stolen, it's not my fault.
 
 # Security
 
@@ -44,5 +43,5 @@ Version 1.0 =
 # 🎇
 
 - This is for educational purposes, all credits go to me.
-- If user gets banned / get info stolen, it's not my fault, but entirely theirs.
+- If user gets banned it's not my fault, but entirely theirs.
 - This software is only to people sure of getting into cheating and knows the risk they're enduring by playing with this cheat.
